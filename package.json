@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "metascraper": "^5.45.2",
+    "metascraper-author": "^5.45.0",
+    "metascraper-date": "^5.45.0",
+    "metascraper-title": "^5.45.0"
+  }
+}
